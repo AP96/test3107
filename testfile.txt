@@ -3,3 +3,5 @@ test2
 test3
 newline1
 newline 2
+new line 3
+new line 4
